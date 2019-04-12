@@ -2,7 +2,7 @@
   "name": "multeruploaderhelper",
   "version": "1.0.0",
   "description": "helps with multer configuration and uploading",
-  "main": "index.js",
+  "main": "multeruploaderhelper.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
